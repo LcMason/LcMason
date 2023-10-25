@@ -6,7 +6,7 @@
 💻  I'm currently exploring new languages in the programming world. 💻
 ### Goals:
  Make dynamic websites and applications that solve real world problems.
- ### Fun Facts
+ ### Fun Facts:
  I love the outdoors and was a Division I Collegiate athlete. 
 
 ### 🧰 Technology Stack:
