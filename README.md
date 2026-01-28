@@ -2,7 +2,7 @@
 <!--
 <img align="left" width="450" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 -->
-## I'm a Full Stack Developer, Private Chef and an Explorer of the Tech World.
+## I'm a Full Stack Developer, Entrepreneur and an Explorer of the Tech World.
 💻  I'm currently exploring new languages in the programming world. 💻
 ### Goals:
  Make dynamic websites and applications that solve real world problems.
